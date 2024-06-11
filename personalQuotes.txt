@@ -1,7 +1,5 @@
 "Strength through Struggle - Michael Choi
 
-<<<<<<< HEAD
 "Live long and prosper" - Spock
-=======
+
 "I like green" - Caroline Schafer 
->>>>>>> personalQuotes
